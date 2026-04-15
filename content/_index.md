@@ -44,8 +44,7 @@ sections:
         folders:
           - publications
     design:
-      view: article-grid
-      columns: 2
+      view: citation
 
   - block: collection
     id: talks
