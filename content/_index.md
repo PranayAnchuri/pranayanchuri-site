@@ -55,4 +55,14 @@ sections:
           - events
     design:
       view: card
+
+  - block: collection
+    id: projects
+    content:
+      title: Side Projects
+      filters:
+        folders:
+          - projects
+    design:
+      view: card
 ---
