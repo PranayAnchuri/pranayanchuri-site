@@ -46,6 +46,16 @@ sections:
     design:
       view: citation
 
+  - block: markdown
+    content:
+      title: 'In the Media'
+      subtitle: ''
+      text: |-
+        - [Crypto has limited utility in solving AI's trust and payment issues, IC3 researchers say](https://www.theblock.co/post/404021/crypto-has-limited-utility-in-solving-ais-trust-and-payment-issues-ic3-researchers-say) — The Block, 2026
+        - [IC3 on AIC3](https://x.com/initc3org/status/2063991036242706743) — @initc3org on X, 2026
+    design:
+      columns: '1'
+
   - block: collection
     id: talks
     content:
